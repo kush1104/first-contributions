@@ -2,6 +2,7 @@
 
 - [wa4It] (https://github.com/dTCTb)
 - [yli302] (https://github.com/yli302)
+- [Kush Mathur](https://github.com/kush1104)
 - [Katie Chen] (https://github.com/k8iechen)
 - [Ahmad Dinkins] (https://github.com/AHMAD-DINKINS)
 - [trialzuki] (https://github.com/trialzuki)
